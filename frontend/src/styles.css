@@ -1,6 +1,9 @@
 @import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
 @theme {
+  --font-sans: 'Inter', sans-serif;
+  
   /* Chathams Blue */
   --color-chathams-blue-50: #f2f8fd;
   --color-chathams-blue-100: #e5f0f9;
@@ -14,5 +17,29 @@
   --color-chathams-blue-900: #1b425f;
   --color-chathams-blue-950: #122b3f;
   
+  /* Mako */
+  --color-mako-50: #fafafa;
+  --color-mako-100: #f4f4f5;
+  --color-mako-200: #e3e5e8;
+  --color-mako-300: #d3d6d9;
+  --color-mako-400: #9ea5ad;
+  --color-mako-500: #6e757d;
+  --color-mako-600: #4f565e;
+  --color-mako-700: #41474e;
+  --color-mako-800: #26282b;
+  --color-mako-900: #17191c;
+  --color-mako-950: #080a0c;
   
+  /* Astronaut Blue */
+  --color-astronaut-blue-50: #eef9ff;
+  --color-astronaut-blue-100: #dcf3ff;
+  --color-astronaut-blue-200: #b2e8ff;
+  --color-astronaut-blue-300: #6dd6ff;
+  --color-astronaut-blue-400: #20c4ff;
+  --color-astronaut-blue-500: #00bbff;
+  --color-astronaut-blue-600: #009ddf;
+  --color-astronaut-blue-700: #007cb4;
+  --color-astronaut-blue-800: #006795;
+  --color-astronaut-blue-900: #00537a;
+  --color-astronaut-blue-950: #003857;
 }
