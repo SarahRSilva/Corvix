@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+
+@theme {
+  /* Chathams Blue */
+  --color-chathams-blue-50: #f2f8fd;
+  --color-chathams-blue-100: #e5f0f9;
+  --color-chathams-blue-200: #c5e0f2;
+  --color-chathams-blue-300: #91c7e8;
+  --color-chathams-blue-400: #56aada;
+  --color-chathams-blue-500: #3090c7;
+  --color-chathams-blue-600: #2173a8;
+  --color-chathams-blue-700: #1c5c88;
+  --color-chathams-blue-800: #1b4f72;
+  --color-chathams-blue-900: #1b425f;
+  --color-chathams-blue-950: #122b3f;
+  
+  
+}
